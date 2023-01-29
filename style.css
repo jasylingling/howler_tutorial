@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+*, *::after, *::before {
+  box-sizing: border-box;
+}
+
+body {
+  background: #222;
+  color: white;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  user-select: none;
+}
+
+.sounds {
+  display: grid;
+  grid-template-columns: repeat(3, 150px);
+  gap: 3rem;
+  max-width: 800px;
+}
+
+.sounds span {
+  font-size: 8rem;
+}
+
+.sounds span:hover {
+  color: hotpink;
+  cursor: pointer;
+}
+
+.sounds span.active {
+  color: hotpink;
+}
