@@ -3,7 +3,7 @@
 
 ##### **Autor: 🦄 Jasmin Fischli 🌈**
 <br>
-In diesem Code werden wir zusammen die Basics von howler.js anschauen, sodass du am Schluss in der Lage sein solltest, Audio-Elemente zu implementieren und zu steuern. Ich werde euch dies anhand einer Ambient Sounds-App mit Abspielen mehreren Songs gleichzeitig aufzeigen.
+In diesem Code werden wir zusammen die Basics von howler.js anschauen, sodass du am Schluss in der Lage sein solltest, Audio-Elemente zu implementieren und zu steuern. Ich werde euch dies anhand einer Ambient Sounds-App mit Abspielen mehrerer Songs gleichzeitig aufzeigen.
 
 <br>
 <br>
