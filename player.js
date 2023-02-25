@@ -1,3 +1,5 @@
+//// ** Example play 1 song *** 
+
 // const waves = new Howl({
 //   src: ["audio/waves.mp3"],
 //   volume: 0.5,
@@ -13,6 +15,9 @@
 //       document.querySelector('[data-audio="waves"]').classList.add("active");
 //     }
 //   });
+
+
+//// ** Example play multiple songs at the same time (dynamic) ***
 
 const sounds = {};
 
