@@ -6,6 +6,7 @@
 In diesem Code werden wir zusammen die Basics von howler.js anschauen, sodass du am Schluss in der Lage sein solltest, Audio-Elemente zu implementieren und zu steuern. Ich werde euch dies anhand einer Ambient Sounds-App mit Abspielen mehreren Songs gleichzeitig aufzeigen.
 
 <br>
+<br>
 
 ### 🔗 Links & hilfreiche Anleitungen 🔗
 ---
@@ -37,6 +38,8 @@ In diesem Code werden wir zusammen die Basics von howler.js anschauen, sodass du
 - [Building a Music Player in React](https://dev.to/documatic/building-a-music-player-in-react-2aa4)
 - [Creating a music player with Howler.js in a React application](https://anathochberg.medium.com/creating-a-music-player-with-howler-js-in-a-react-application-87d3023f5531)
 - [Web Audio Made Easy with Howler JS - James Simpson: ThunderPlains 2019](https://youtu.be/TxZMeFHFZmA)
+
+<br>
 
 ### 📖 Verwendete Musikquellen in der Demo-App 📖
 ---
