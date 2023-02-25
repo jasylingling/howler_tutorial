@@ -1,6 +1,10 @@
 # Howler-Tutorial 🐵🎧
 ## 🎵 Kreiere eine simple Ambient Sounds-App mit Howler JS 🎹
 
+<br>
+
+##### **Autor: Jasmin Fischli 🌈**
+<br>
 In diesem Code werden wir zusammen die Basics von howler.js anschauen, sodass du am Schluss in der Lage sein solltest, Audio-Elemente zu implementieren und zu steuern. Ich werde euch dies anhand einer Ambient Sounds-App mit Abspielen 1 Songs und mehreren Songs gleichzeitig aufzeigen.
 
 <br>
