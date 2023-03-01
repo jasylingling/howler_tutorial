@@ -51,7 +51,7 @@ In diesem Code werden wir zusammen die Basics von howler.js anschauen, sodass du
 - **Forest:** https://freesound.org/people/BurghRecords/sounds/463903/
 - **Spa:** https://pixabay.com/music/meditationspiritual-zen-spiritual-yoga-massage-meditation-spa-relax-ambient-music-18403/
 - **Piano:** https://www.chosic.com/download-audio/45366
-Contact by Purrple Cat | https://purrplecat.com/
+_Contact by Purrple Cat | https://purrplecat.com/
 Music promoted by https://www.chosic.com/free-music/all/
 Creative Commons CC BY-SA 3.0
-https://creativecommons.org/licenses/by-sa/3.0/
+https://creativecommons.org/licenses/by-sa/3.0/_
